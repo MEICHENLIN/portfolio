@@ -20,7 +20,6 @@ This application server addresses these challenges by:
 <img src="images/fig-12.png?raw=true"/>
 <!-- <div style="height: 30px;"></div> -->
 <img src="images/fig-34.png?raw=true"/>
-<div style="height: 30px;"></div>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/MEICHENLIN/arpansa-audit-automation)
 <!-- [View code on GitHub](https://github.com/MEICHENLIN/arpansa-audit-automation) -->
@@ -58,7 +57,6 @@ The project investigates the following topics:
 * Time-based vs. location-based sentiment analysis
 
 <img src="images/sentiment.png?raw=true"/>
-<div style="height: 30px;"></div>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/MEICHENLIN/tweet-sentiment-pipeline)
 <!-- [View code on GitHub](https://github.com/MEICHENLIN/tweet-sentiment-pipeline) -->
