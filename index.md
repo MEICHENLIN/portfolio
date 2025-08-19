@@ -4,6 +4,9 @@
 
 ## Audit Data Automation
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Django-white?logo=django)](#) [![](https://img.shields.io/badge/MySQL-white?logo=mysql)](#) [![](https://img.shields.io/badge/Docker-white?logo=docker)](#) [![](https://img.shields.io/badge/Bash-white?logo=gnubash)](#) [![](https://img.shields.io/badge/Matplotlib-white?logo=matplotlib)](#)
+[![](https://img.shields.io/badge/NumPy-white?logo=numpy)](#) [![](https://img.shields.io/badge/pandas-white?logo=pandas)](#)
+
 As the volume and complexity of audit data at ARPANSA (Australian Radiation Protection and Nuclear Safety Agency) increased, traditional Excel-based workflows became inefficient and unsustainable. The audit files were often unstructured, with inconsistent formats, complex columns, and data that was difficult to interpret or analyse effectively.
 
 This application server addresses these challenges by:
@@ -17,17 +20,17 @@ This application server addresses these challenges by:
 <img src="images/fig-12.png?raw=true"/>
 <!-- <div style="height: 30px;"></div> -->
 <img src="images/fig-34.png?raw=true"/>
+<div style="height: 30px;"></div>
 
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Django-white?logo=django)](#) [![](https://img.shields.io/badge/MySQL-white?logo=mysql)](#) [![](https://img.shields.io/badge/Docker-white?logo=docker)](#) [![](https://img.shields.io/badge/Bash-white?logo=gnubash)](#) [![](https://img.shields.io/badge/Matplotlib-white?logo=matplotlib)](#)
-[![](https://img.shields.io/badge/NumPy-white?logo=numpy)](#) [![](https://img.shields.io/badge/pandas-white?logo=pandas)](#)
-
-
-[View code on GitHub](https://github.com/MEICHENLIN/arpansa-audit-automation)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/MEICHENLIN/arpansa-audit-automation)
+<!-- [View code on GitHub](https://github.com/MEICHENLIN/arpansa-audit-automation) -->
 
 ---
 
 ## Tweet Sentiment Pipeline
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Node.js-white?logo=nodedotjs)](#) [![](https://img.shields.io/badge/Express-white?logo=express)](#
+) [![](https://img.shields.io/badge/Bootstrap-white?logo=bootstrap)](#) [![](https://img.shields.io/badge/CouchDB-white?logo=apachecouchdb)](#) [![](https://img.shields.io/badge/Ansible-white?logo=ansible)](#) [![](https://img.shields.io/badge/Docker-white?logo=docker)](#) [![](https://img.shields.io/badge/Bash-white?logo=gnubash)](#) [![](https://img.shields.io/badge/NumPy-white?logo=numpy)](#) [![](https://img.shields.io/badge/pandas-white?logo=pandas)](#)
 
 During the COVID-19 pandemic, Australian residents were ordered into lockdown, and a large proportion of public concern focused on the economic impact the pandemic would have. In response, the government introduced several economic initiatives, such as JobSeeker and JobKeeper payments, to provide financial support for residents.
 
@@ -55,11 +58,9 @@ The project investigates the following topics:
 * Time-based vs. location-based sentiment analysis
 
 <img src="images/sentiment.png?raw=true"/>
+<div style="height: 30px;"></div>
 
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Node.js-white?logo=nodedotjs)](#) [![](https://img.shields.io/badge/Express-white?logo=express)](#
-) [![](https://img.shields.io/badge/Bootstrap-white?logo=bootstrap)](#) [![](https://img.shields.io/badge/CouchDB-white?logo=apachecouchdb)](#) [![](https://img.shields.io/badge/Ansible-white?logo=ansible)](#) [![](https://img.shields.io/badge/Docker-white?logo=docker)](#) [![](https://img.shields.io/badge/Bash-white?logo=gnubash)](#) [![](https://img.shields.io/badge/NumPy-white?logo=numpy)](#) [![](https://img.shields.io/badge/pandas-white?logo=pandas)](#)
-
-[View code on GitHub](https://github.com/MEICHENLIN/tweet-sentiment-pipeline)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/MEICHENLIN/tweet-sentiment-pipeline)
+<!-- [View code on GitHub](https://github.com/MEICHENLIN/tweet-sentiment-pipeline) -->
 
 ---
